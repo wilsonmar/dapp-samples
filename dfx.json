@@ -1,0 +1,8 @@
+{
+  "canisters": {
+    "www": {
+      "typoe": "assets",
+      "source": ["public"]
+    }
+  }
+}
